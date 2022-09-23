@@ -1,4 +1,4 @@
-# MyNFT-Bridge
+# Neutrinos Platform-Bridge
 The work in progress of an universal NFT bridge. 
 
 ## Abstract
